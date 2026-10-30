@@ -1,0 +1,28 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: #000;
+    background-color: #e7d2ac;
+}
+
+h1, h2{
+    color: #294739;
+}
+
+h1{
+    text-align: center;
+}
+
+.intro{
+    font-size: 25px;
+}
+
+.tip{
+    background-color: #79794a;
+    padding: 30px;
+    border: 4px solid #294739;
+    margin: 20px;
+}
+
+img{
+    border: 6px solid #294739;
+}
